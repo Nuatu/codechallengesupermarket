@@ -1,4 +1,4 @@
-Problem Statement - Java Code Challenge
+Java Code Challenge
 =======================================
 
 Supermarket sells the following 3 products: 
@@ -22,4 +22,4 @@ Implement the following:
 
 Solution
 ========
-Java code that takes in string, splits string into an array of characters, iterates through array to determine qty of each product, calculates totalCostA, runs helper method calculateTotalCostB to determine discount/cost of product B, calculates totalCostC, calculates and returns grandTotal.
+Algorithm takes in string, splits string into an array of characters, iterates through array to determine qty of each product, calculates totalCostA, runs helper method calculateTotalCostB to determine discount/cost of product B, calculates totalCostC, calculates and returns grandTotal.
